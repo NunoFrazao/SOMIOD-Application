@@ -1,0 +1,42 @@
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto\Projeto_IS\SolutionIS\LightSwitchClient\bin\Debug\net8.0-windows\LightSwitchClient.exe
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto\Projeto_IS\SolutionIS\LightSwitchClient\bin\Debug\net8.0-windows\LightSwitchClient.dll.config
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto\Projeto_IS\SolutionIS\LightSwitchClient\bin\Debug\net8.0-windows\LightSwitchClient.deps.json
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto\Projeto_IS\SolutionIS\LightSwitchClient\bin\Debug\net8.0-windows\LightSwitchClient.runtimeconfig.json
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto\Projeto_IS\SolutionIS\LightSwitchClient\bin\Debug\net8.0-windows\LightSwitchClient.dll
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto\Projeto_IS\SolutionIS\LightSwitchClient\bin\Debug\net8.0-windows\LightSwitchClient.pdb
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto\Projeto_IS\SolutionIS\LightSwitchClient\bin\Debug\net8.0-windows\RestSharp.dll
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto\Projeto_IS\SolutionIS\LightSwitchClient\obj\Debug\net8.0-windows\LightSwitchClient.csproj.AssemblyReference.cache
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto\Projeto_IS\SolutionIS\LightSwitchClient\obj\Debug\net8.0-windows\LightSwitchClient.FormLightSwitch.resources
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto\Projeto_IS\SolutionIS\LightSwitchClient\obj\Debug\net8.0-windows\LightSwitchClient.csproj.GenerateResource.cache
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto\Projeto_IS\SolutionIS\LightSwitchClient\obj\Debug\net8.0-windows\LightSwitchClient.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto\Projeto_IS\SolutionIS\LightSwitchClient\obj\Debug\net8.0-windows\LightSwitchClient.AssemblyInfoInputs.cache
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto\Projeto_IS\SolutionIS\LightSwitchClient\obj\Debug\net8.0-windows\LightSwitchClient.AssemblyInfo.cs
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto\Projeto_IS\SolutionIS\LightSwitchClient\obj\Debug\net8.0-windows\LightSwitchClient.csproj.CoreCompileInputs.cache
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto\Projeto_IS\SolutionIS\LightSwitchClient\obj\Debug\net8.0-windows\LightSwitchClient.sourcelink.json
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto\Projeto_IS\SolutionIS\LightSwitchClient\obj\Debug\net8.0-windows\LightSwitchClient.csproj.CopyComplete
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto\Projeto_IS\SolutionIS\LightSwitchClient\obj\Debug\net8.0-windows\LightSwitchClient.dll
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto\Projeto_IS\SolutionIS\LightSwitchClient\obj\Debug\net8.0-windows\refint\LightSwitchClient.dll
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto\Projeto_IS\SolutionIS\LightSwitchClient\obj\Debug\net8.0-windows\LightSwitchClient.pdb
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto\Projeto_IS\SolutionIS\LightSwitchClient\obj\Debug\net8.0-windows\LightSwitchClient.genruntimeconfig.cache
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto\Projeto_IS\SolutionIS\LightSwitchClient\obj\Debug\net8.0-windows\ref\LightSwitchClient.dll
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\LightSwitchClient\bin\Debug\net8.0-windows\LightSwitchClient.exe
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\LightSwitchClient\bin\Debug\net8.0-windows\LightSwitchClient.dll.config
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\LightSwitchClient\bin\Debug\net8.0-windows\LightSwitchClient.deps.json
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\LightSwitchClient\bin\Debug\net8.0-windows\LightSwitchClient.runtimeconfig.json
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\LightSwitchClient\bin\Debug\net8.0-windows\LightSwitchClient.dll
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\LightSwitchClient\bin\Debug\net8.0-windows\LightSwitchClient.pdb
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\LightSwitchClient\bin\Debug\net8.0-windows\RestSharp.dll
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\LightSwitchClient\obj\Debug\net8.0-windows\LightSwitchClient.csproj.AssemblyReference.cache
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\LightSwitchClient\obj\Debug\net8.0-windows\LightSwitchClient.FormLightSwitch.resources
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\LightSwitchClient\obj\Debug\net8.0-windows\LightSwitchClient.csproj.GenerateResource.cache
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\LightSwitchClient\obj\Debug\net8.0-windows\LightSwitchClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\LightSwitchClient\obj\Debug\net8.0-windows\LightSwitchClient.AssemblyInfoInputs.cache
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\LightSwitchClient\obj\Debug\net8.0-windows\LightSwitchClient.AssemblyInfo.cs
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\LightSwitchClient\obj\Debug\net8.0-windows\LightSwitchClient.csproj.CoreCompileInputs.cache
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\LightSwitchClient\obj\Debug\net8.0-windows\LightSwitchClient.sourcelink.json
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\LightSwitchClient\obj\Debug\net8.0-windows\LightSwitchClient.csproj.CopyComplete
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\LightSwitchClient\obj\Debug\net8.0-windows\LightSwitchClient.dll
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\LightSwitchClient\obj\Debug\net8.0-windows\refint\LightSwitchClient.dll
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\LightSwitchClient\obj\Debug\net8.0-windows\LightSwitchClient.pdb
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\LightSwitchClient\obj\Debug\net8.0-windows\LightSwitchClient.genruntimeconfig.cache
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\LightSwitchClient\obj\Debug\net8.0-windows\ref\LightSwitchClient.dll

@@ -1,0 +1,30 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="LightClient.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Topic" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">contDoor</Value>
+    </Setting>
+    <Setting Name="BrokerIp" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">127.0.0.1</Value>
+    </Setting>
+    <Setting Name="ApiBaseUri" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://localhost:55932</Value>
+    </Setting>
+    <Setting Name="AppName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">appDoor</Value>
+    </Setting>
+    <Setting Name="ContainerName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">contDoor</Value>
+    </Setting>
+    <Setting Name="SubName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">sub_1</Value>
+    </Setting>
+    <Setting Name="EventType" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">CREATE</Value>
+    </Setting>
+    <Setting Name="EndPoint" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">127.0.0.1</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

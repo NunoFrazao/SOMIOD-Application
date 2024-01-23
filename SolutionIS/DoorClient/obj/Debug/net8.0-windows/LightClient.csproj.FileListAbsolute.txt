@@ -1,0 +1,66 @@
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto_IS\SolutionIS\LightClient\obj\Debug\net8.0-windows\LightClient.csproj.AssemblyReference.cache
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto_IS\SolutionIS\LightClient\obj\Debug\net8.0-windows\LightClient.FormLight.resources
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto_IS\SolutionIS\LightClient\obj\Debug\net8.0-windows\LightClient.csproj.GenerateResource.cache
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto_IS\SolutionIS\LightClient\obj\Debug\net8.0-windows\LightClient.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto_IS\SolutionIS\LightClient\obj\Debug\net8.0-windows\LightClient.AssemblyInfoInputs.cache
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto_IS\SolutionIS\LightClient\obj\Debug\net8.0-windows\LightClient.AssemblyInfo.cs
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto_IS\SolutionIS\LightClient\obj\Debug\net8.0-windows\LightClient.csproj.CoreCompileInputs.cache
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto_IS\SolutionIS\LightClient\obj\Debug\net8.0-windows\LightClient.sourcelink.json
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto_IS\SolutionIS\LightClient\bin\Debug\net8.0-windows\LightClient.exe
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto_IS\SolutionIS\LightClient\bin\Debug\net8.0-windows\LightClient.dll.config
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto_IS\SolutionIS\LightClient\bin\Debug\net8.0-windows\LightClient.deps.json
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto_IS\SolutionIS\LightClient\bin\Debug\net8.0-windows\LightClient.runtimeconfig.json
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto_IS\SolutionIS\LightClient\bin\Debug\net8.0-windows\LightClient.dll
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto_IS\SolutionIS\LightClient\bin\Debug\net8.0-windows\LightClient.pdb
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto_IS\SolutionIS\LightClient\bin\Debug\net8.0-windows\M2Mqtt.Net.dll
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto_IS\SolutionIS\LightClient\bin\Debug\net8.0-windows\RestSharp.dll
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto_IS\SolutionIS\LightClient\obj\Debug\net8.0-windows\LightClient.csproj.CopyComplete
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto_IS\SolutionIS\LightClient\obj\Debug\net8.0-windows\LightClient.dll
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto_IS\SolutionIS\LightClient\obj\Debug\net8.0-windows\refint\LightClient.dll
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto_IS\SolutionIS\LightClient\obj\Debug\net8.0-windows\LightClient.pdb
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto_IS\SolutionIS\LightClient\obj\Debug\net8.0-windows\LightClient.genruntimeconfig.cache
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto_IS\SolutionIS\LightClient\obj\Debug\net8.0-windows\ref\LightClient.dll
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto (2)\Projeto\Projeto_IS\SolutionIS\LightClient\bin\Debug\net8.0-windows\LightClient.exe
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto (2)\Projeto\Projeto_IS\SolutionIS\LightClient\bin\Debug\net8.0-windows\LightClient.dll.config
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto (2)\Projeto\Projeto_IS\SolutionIS\LightClient\bin\Debug\net8.0-windows\LightClient.deps.json
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto (2)\Projeto\Projeto_IS\SolutionIS\LightClient\bin\Debug\net8.0-windows\LightClient.runtimeconfig.json
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto (2)\Projeto\Projeto_IS\SolutionIS\LightClient\bin\Debug\net8.0-windows\LightClient.dll
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto (2)\Projeto\Projeto_IS\SolutionIS\LightClient\bin\Debug\net8.0-windows\LightClient.pdb
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto (2)\Projeto\Projeto_IS\SolutionIS\LightClient\bin\Debug\net8.0-windows\M2Mqtt.Net.dll
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto (2)\Projeto\Projeto_IS\SolutionIS\LightClient\bin\Debug\net8.0-windows\RestSharp.dll
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto (2)\Projeto\Projeto_IS\SolutionIS\LightClient\obj\Debug\net8.0-windows\LightClient.csproj.AssemblyReference.cache
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto (2)\Projeto\Projeto_IS\SolutionIS\LightClient\obj\Debug\net8.0-windows\LightClient.FormLight.resources
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto (2)\Projeto\Projeto_IS\SolutionIS\LightClient\obj\Debug\net8.0-windows\LightClient.csproj.GenerateResource.cache
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto (2)\Projeto\Projeto_IS\SolutionIS\LightClient\obj\Debug\net8.0-windows\LightClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto (2)\Projeto\Projeto_IS\SolutionIS\LightClient\obj\Debug\net8.0-windows\LightClient.AssemblyInfoInputs.cache
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto (2)\Projeto\Projeto_IS\SolutionIS\LightClient\obj\Debug\net8.0-windows\LightClient.AssemblyInfo.cs
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto (2)\Projeto\Projeto_IS\SolutionIS\LightClient\obj\Debug\net8.0-windows\LightClient.csproj.CoreCompileInputs.cache
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto (2)\Projeto\Projeto_IS\SolutionIS\LightClient\obj\Debug\net8.0-windows\LightClient.sourcelink.json
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto (2)\Projeto\Projeto_IS\SolutionIS\LightClient\obj\Debug\net8.0-windows\LightClient.csproj.CopyComplete
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto (2)\Projeto\Projeto_IS\SolutionIS\LightClient\obj\Debug\net8.0-windows\LightClient.dll
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto (2)\Projeto\Projeto_IS\SolutionIS\LightClient\obj\Debug\net8.0-windows\refint\LightClient.dll
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto (2)\Projeto\Projeto_IS\SolutionIS\LightClient\obj\Debug\net8.0-windows\LightClient.pdb
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto (2)\Projeto\Projeto_IS\SolutionIS\LightClient\obj\Debug\net8.0-windows\LightClient.genruntimeconfig.cache
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto (2)\Projeto\Projeto_IS\SolutionIS\LightClient\obj\Debug\net8.0-windows\ref\LightClient.dll
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto\Projeto_IS\SolutionIS\LightClient\bin\Debug\net8.0-windows\LightClient.exe
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto\Projeto_IS\SolutionIS\LightClient\bin\Debug\net8.0-windows\LightClient.dll.config
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto\Projeto_IS\SolutionIS\LightClient\bin\Debug\net8.0-windows\LightClient.deps.json
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto\Projeto_IS\SolutionIS\LightClient\bin\Debug\net8.0-windows\LightClient.runtimeconfig.json
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto\Projeto_IS\SolutionIS\LightClient\bin\Debug\net8.0-windows\LightClient.dll
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto\Projeto_IS\SolutionIS\LightClient\bin\Debug\net8.0-windows\LightClient.pdb
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto\Projeto_IS\SolutionIS\LightClient\bin\Debug\net8.0-windows\M2Mqtt.Net.dll
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto\Projeto_IS\SolutionIS\LightClient\bin\Debug\net8.0-windows\RestSharp.dll
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto\Projeto_IS\SolutionIS\LightClient\obj\Debug\net8.0-windows\LightClient.csproj.AssemblyReference.cache
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto\Projeto_IS\SolutionIS\LightClient\obj\Debug\net8.0-windows\LightClient.FormLight.resources
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto\Projeto_IS\SolutionIS\LightClient\obj\Debug\net8.0-windows\LightClient.csproj.GenerateResource.cache
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto\Projeto_IS\SolutionIS\LightClient\obj\Debug\net8.0-windows\LightClient.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto\Projeto_IS\SolutionIS\LightClient\obj\Debug\net8.0-windows\LightClient.AssemblyInfoInputs.cache
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto\Projeto_IS\SolutionIS\LightClient\obj\Debug\net8.0-windows\LightClient.AssemblyInfo.cs
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto\Projeto_IS\SolutionIS\LightClient\obj\Debug\net8.0-windows\LightClient.csproj.CoreCompileInputs.cache
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto\Projeto_IS\SolutionIS\LightClient\obj\Debug\net8.0-windows\LightClient.sourcelink.json
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto\Projeto_IS\SolutionIS\LightClient\obj\Debug\net8.0-windows\LightClient.csproj.CopyComplete
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto\Projeto_IS\SolutionIS\LightClient\obj\Debug\net8.0-windows\LightClient.dll
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto\Projeto_IS\SolutionIS\LightClient\obj\Debug\net8.0-windows\refint\LightClient.dll
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto\Projeto_IS\SolutionIS\LightClient\obj\Debug\net8.0-windows\LightClient.pdb
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto\Projeto_IS\SolutionIS\LightClient\obj\Debug\net8.0-windows\LightClient.genruntimeconfig.cache
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto\Projeto_IS\SolutionIS\LightClient\obj\Debug\net8.0-windows\ref\LightClient.dll

@@ -1,0 +1,63 @@
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\DoorSwitchClient\bin\Debug\net8.0-windows\DoorSwitchClient.exe
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\DoorSwitchClient\bin\Debug\net8.0-windows\DoorSwitchClient.dll.config
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\DoorSwitchClient\bin\Debug\net8.0-windows\DoorSwitchClient.deps.json
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\DoorSwitchClient\bin\Debug\net8.0-windows\DoorSwitchClient.runtimeconfig.json
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\DoorSwitchClient\bin\Debug\net8.0-windows\DoorSwitchClient.dll
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\DoorSwitchClient\bin\Debug\net8.0-windows\DoorSwitchClient.pdb
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\DoorSwitchClient\bin\Debug\net8.0-windows\RestSharp.dll
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\DoorSwitchClient\obj\Debug\net8.0-windows\DoorSwitchClient.csproj.AssemblyReference.cache
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\DoorSwitchClient\obj\Debug\net8.0-windows\DoorSwitchClient.csproj.GenerateResource.cache
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\DoorSwitchClient\obj\Debug\net8.0-windows\DoorSwitchClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\DoorSwitchClient\obj\Debug\net8.0-windows\DoorSwitchClient.AssemblyInfoInputs.cache
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\DoorSwitchClient\obj\Debug\net8.0-windows\DoorSwitchClient.AssemblyInfo.cs
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\DoorSwitchClient\obj\Debug\net8.0-windows\DoorSwitchClient.csproj.CoreCompileInputs.cache
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\DoorSwitchClient\obj\Debug\net8.0-windows\DoorSwitchClient.sourcelink.json
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\DoorSwitchClient\obj\Debug\net8.0-windows\DoorSwitchClient.csproj.CopyComplete
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\DoorSwitchClient\obj\Debug\net8.0-windows\DoorSwitchClient.dll
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\DoorSwitchClient\obj\Debug\net8.0-windows\refint\DoorSwitchClient.dll
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\DoorSwitchClient\obj\Debug\net8.0-windows\DoorSwitchClient.pdb
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\DoorSwitchClient\obj\Debug\net8.0-windows\DoorSwitchClient.genruntimeconfig.cache
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\DoorSwitchClient\obj\Debug\net8.0-windows\ref\DoorSwitchClient.dll
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\DoorSwitchClient\obj\Debug\net8.0-windows\DoorSwitchClient.FormDoorSwitch.resources
+C:\Users\Ivo\Downloads\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\DoorSwitchClient\bin\Debug\net8.0-windows\DoorSwitchClient.exe
+C:\Users\Ivo\Downloads\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\DoorSwitchClient\bin\Debug\net8.0-windows\DoorSwitchClient.dll.config
+C:\Users\Ivo\Downloads\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\DoorSwitchClient\bin\Debug\net8.0-windows\DoorSwitchClient.deps.json
+C:\Users\Ivo\Downloads\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\DoorSwitchClient\bin\Debug\net8.0-windows\DoorSwitchClient.runtimeconfig.json
+C:\Users\Ivo\Downloads\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\DoorSwitchClient\bin\Debug\net8.0-windows\DoorSwitchClient.dll
+C:\Users\Ivo\Downloads\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\DoorSwitchClient\bin\Debug\net8.0-windows\DoorSwitchClient.pdb
+C:\Users\Ivo\Downloads\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\DoorSwitchClient\bin\Debug\net8.0-windows\RestSharp.dll
+C:\Users\Ivo\Downloads\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\DoorSwitchClient\obj\Debug\net8.0-windows\DoorSwitchClient.csproj.AssemblyReference.cache
+C:\Users\Ivo\Downloads\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\DoorSwitchClient\obj\Debug\net8.0-windows\DoorSwitchClient.FormDoorSwitch.resources
+C:\Users\Ivo\Downloads\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\DoorSwitchClient\obj\Debug\net8.0-windows\DoorSwitchClient.csproj.GenerateResource.cache
+C:\Users\Ivo\Downloads\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\DoorSwitchClient\obj\Debug\net8.0-windows\DoorSwitchClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivo\Downloads\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\DoorSwitchClient\obj\Debug\net8.0-windows\DoorSwitchClient.AssemblyInfoInputs.cache
+C:\Users\Ivo\Downloads\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\DoorSwitchClient\obj\Debug\net8.0-windows\DoorSwitchClient.AssemblyInfo.cs
+C:\Users\Ivo\Downloads\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\DoorSwitchClient\obj\Debug\net8.0-windows\DoorSwitchClient.csproj.CoreCompileInputs.cache
+C:\Users\Ivo\Downloads\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\DoorSwitchClient\obj\Debug\net8.0-windows\DoorSwitchClient.sourcelink.json
+C:\Users\Ivo\Downloads\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\DoorSwitchClient\obj\Debug\net8.0-windows\DoorSwitchClient.csproj.CopyComplete
+C:\Users\Ivo\Downloads\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\DoorSwitchClient\obj\Debug\net8.0-windows\DoorSwitchClient.dll
+C:\Users\Ivo\Downloads\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\DoorSwitchClient\obj\Debug\net8.0-windows\refint\DoorSwitchClient.dll
+C:\Users\Ivo\Downloads\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\DoorSwitchClient\obj\Debug\net8.0-windows\DoorSwitchClient.pdb
+C:\Users\Ivo\Downloads\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\DoorSwitchClient\obj\Debug\net8.0-windows\DoorSwitchClient.genruntimeconfig.cache
+C:\Users\Ivo\Downloads\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\DoorSwitchClient\obj\Debug\net8.0-windows\ref\DoorSwitchClient.dll
+D:\IPL\3º Ano\IS - Integração de Sistemas\Projeto\Projeto\Projeto_IS\SolutionIS\DoorSwitchClient\bin\Debug\net8.0-windows\DoorSwitchClient.exe
+D:\IPL\3º Ano\IS - Integração de Sistemas\Projeto\Projeto\Projeto_IS\SolutionIS\DoorSwitchClient\bin\Debug\net8.0-windows\DoorSwitchClient.dll.config
+D:\IPL\3º Ano\IS - Integração de Sistemas\Projeto\Projeto\Projeto_IS\SolutionIS\DoorSwitchClient\bin\Debug\net8.0-windows\DoorSwitchClient.deps.json
+D:\IPL\3º Ano\IS - Integração de Sistemas\Projeto\Projeto\Projeto_IS\SolutionIS\DoorSwitchClient\bin\Debug\net8.0-windows\DoorSwitchClient.runtimeconfig.json
+D:\IPL\3º Ano\IS - Integração de Sistemas\Projeto\Projeto\Projeto_IS\SolutionIS\DoorSwitchClient\bin\Debug\net8.0-windows\DoorSwitchClient.dll
+D:\IPL\3º Ano\IS - Integração de Sistemas\Projeto\Projeto\Projeto_IS\SolutionIS\DoorSwitchClient\bin\Debug\net8.0-windows\DoorSwitchClient.pdb
+D:\IPL\3º Ano\IS - Integração de Sistemas\Projeto\Projeto\Projeto_IS\SolutionIS\DoorSwitchClient\bin\Debug\net8.0-windows\RestSharp.dll
+D:\IPL\3º Ano\IS - Integração de Sistemas\Projeto\Projeto\Projeto_IS\SolutionIS\DoorSwitchClient\obj\Debug\net8.0-windows\DoorSwitchClient.csproj.AssemblyReference.cache
+D:\IPL\3º Ano\IS - Integração de Sistemas\Projeto\Projeto\Projeto_IS\SolutionIS\DoorSwitchClient\obj\Debug\net8.0-windows\DoorSwitchClient.FormDoorSwitch.resources
+D:\IPL\3º Ano\IS - Integração de Sistemas\Projeto\Projeto\Projeto_IS\SolutionIS\DoorSwitchClient\obj\Debug\net8.0-windows\DoorSwitchClient.csproj.GenerateResource.cache
+D:\IPL\3º Ano\IS - Integração de Sistemas\Projeto\Projeto\Projeto_IS\SolutionIS\DoorSwitchClient\obj\Debug\net8.0-windows\DoorSwitchClient.GeneratedMSBuildEditorConfig.editorconfig
+D:\IPL\3º Ano\IS - Integração de Sistemas\Projeto\Projeto\Projeto_IS\SolutionIS\DoorSwitchClient\obj\Debug\net8.0-windows\DoorSwitchClient.AssemblyInfoInputs.cache
+D:\IPL\3º Ano\IS - Integração de Sistemas\Projeto\Projeto\Projeto_IS\SolutionIS\DoorSwitchClient\obj\Debug\net8.0-windows\DoorSwitchClient.AssemblyInfo.cs
+D:\IPL\3º Ano\IS - Integração de Sistemas\Projeto\Projeto\Projeto_IS\SolutionIS\DoorSwitchClient\obj\Debug\net8.0-windows\DoorSwitchClient.csproj.CoreCompileInputs.cache
+D:\IPL\3º Ano\IS - Integração de Sistemas\Projeto\Projeto\Projeto_IS\SolutionIS\DoorSwitchClient\obj\Debug\net8.0-windows\DoorSwitchClient.sourcelink.json
+D:\IPL\3º Ano\IS - Integração de Sistemas\Projeto\Projeto\Projeto_IS\SolutionIS\DoorSwitchClient\obj\Debug\net8.0-windows\DoorSwitchClient.csproj.CopyComplete
+D:\IPL\3º Ano\IS - Integração de Sistemas\Projeto\Projeto\Projeto_IS\SolutionIS\DoorSwitchClient\obj\Debug\net8.0-windows\DoorSwitchClient.dll
+D:\IPL\3º Ano\IS - Integração de Sistemas\Projeto\Projeto\Projeto_IS\SolutionIS\DoorSwitchClient\obj\Debug\net8.0-windows\refint\DoorSwitchClient.dll
+D:\IPL\3º Ano\IS - Integração de Sistemas\Projeto\Projeto\Projeto_IS\SolutionIS\DoorSwitchClient\obj\Debug\net8.0-windows\DoorSwitchClient.pdb
+D:\IPL\3º Ano\IS - Integração de Sistemas\Projeto\Projeto\Projeto_IS\SolutionIS\DoorSwitchClient\obj\Debug\net8.0-windows\DoorSwitchClient.genruntimeconfig.cache
+D:\IPL\3º Ano\IS - Integração de Sistemas\Projeto\Projeto\Projeto_IS\SolutionIS\DoorSwitchClient\obj\Debug\net8.0-windows\ref\DoorSwitchClient.dll

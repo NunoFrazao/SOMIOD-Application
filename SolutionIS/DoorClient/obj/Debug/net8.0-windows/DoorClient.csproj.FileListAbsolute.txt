@@ -1,0 +1,66 @@
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\DoorClient\bin\Debug\net8.0-windows\DoorClient.exe
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\DoorClient\bin\Debug\net8.0-windows\DoorClient.dll.config
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\DoorClient\bin\Debug\net8.0-windows\DoorClient.deps.json
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\DoorClient\bin\Debug\net8.0-windows\DoorClient.runtimeconfig.json
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\DoorClient\bin\Debug\net8.0-windows\DoorClient.dll
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\DoorClient\bin\Debug\net8.0-windows\DoorClient.pdb
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\DoorClient\bin\Debug\net8.0-windows\M2Mqtt.Net.dll
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\DoorClient\bin\Debug\net8.0-windows\RestSharp.dll
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\DoorClient\obj\Debug\net8.0-windows\DoorClient.csproj.AssemblyReference.cache
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\DoorClient\obj\Debug\net8.0-windows\DoorClient.csproj.GenerateResource.cache
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\DoorClient\obj\Debug\net8.0-windows\DoorClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\DoorClient\obj\Debug\net8.0-windows\DoorClient.AssemblyInfoInputs.cache
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\DoorClient\obj\Debug\net8.0-windows\DoorClient.AssemblyInfo.cs
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\DoorClient\obj\Debug\net8.0-windows\DoorClient.csproj.CoreCompileInputs.cache
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\DoorClient\obj\Debug\net8.0-windows\DoorClient.sourcelink.json
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\DoorClient\obj\Debug\net8.0-windows\DoorClient.csproj.CopyComplete
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\DoorClient\obj\Debug\net8.0-windows\DoorClient.dll
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\DoorClient\obj\Debug\net8.0-windows\refint\DoorClient.dll
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\DoorClient\obj\Debug\net8.0-windows\DoorClient.pdb
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\DoorClient\obj\Debug\net8.0-windows\DoorClient.genruntimeconfig.cache
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\DoorClient\obj\Debug\net8.0-windows\ref\DoorClient.dll
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\DoorClient\obj\Debug\net8.0-windows\DoorClient.FormDoor.resources
+C:\Users\Ivo\Downloads\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\DoorClient\bin\Debug\net8.0-windows\DoorClient.exe
+C:\Users\Ivo\Downloads\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\DoorClient\bin\Debug\net8.0-windows\DoorClient.dll.config
+C:\Users\Ivo\Downloads\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\DoorClient\bin\Debug\net8.0-windows\DoorClient.deps.json
+C:\Users\Ivo\Downloads\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\DoorClient\bin\Debug\net8.0-windows\DoorClient.runtimeconfig.json
+C:\Users\Ivo\Downloads\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\DoorClient\bin\Debug\net8.0-windows\DoorClient.dll
+C:\Users\Ivo\Downloads\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\DoorClient\bin\Debug\net8.0-windows\DoorClient.pdb
+C:\Users\Ivo\Downloads\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\DoorClient\bin\Debug\net8.0-windows\M2Mqtt.Net.dll
+C:\Users\Ivo\Downloads\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\DoorClient\bin\Debug\net8.0-windows\RestSharp.dll
+C:\Users\Ivo\Downloads\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\DoorClient\obj\Debug\net8.0-windows\DoorClient.csproj.AssemblyReference.cache
+C:\Users\Ivo\Downloads\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\DoorClient\obj\Debug\net8.0-windows\DoorClient.FormDoor.resources
+C:\Users\Ivo\Downloads\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\DoorClient\obj\Debug\net8.0-windows\DoorClient.csproj.GenerateResource.cache
+C:\Users\Ivo\Downloads\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\DoorClient\obj\Debug\net8.0-windows\DoorClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivo\Downloads\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\DoorClient\obj\Debug\net8.0-windows\DoorClient.AssemblyInfoInputs.cache
+C:\Users\Ivo\Downloads\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\DoorClient\obj\Debug\net8.0-windows\DoorClient.AssemblyInfo.cs
+C:\Users\Ivo\Downloads\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\DoorClient\obj\Debug\net8.0-windows\DoorClient.csproj.CoreCompileInputs.cache
+C:\Users\Ivo\Downloads\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\DoorClient\obj\Debug\net8.0-windows\DoorClient.sourcelink.json
+C:\Users\Ivo\Downloads\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\DoorClient\obj\Debug\net8.0-windows\DoorClient.csproj.CopyComplete
+C:\Users\Ivo\Downloads\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\DoorClient\obj\Debug\net8.0-windows\DoorClient.dll
+C:\Users\Ivo\Downloads\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\DoorClient\obj\Debug\net8.0-windows\refint\DoorClient.dll
+C:\Users\Ivo\Downloads\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\DoorClient\obj\Debug\net8.0-windows\DoorClient.pdb
+C:\Users\Ivo\Downloads\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\DoorClient\obj\Debug\net8.0-windows\DoorClient.genruntimeconfig.cache
+C:\Users\Ivo\Downloads\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\DoorClient\obj\Debug\net8.0-windows\ref\DoorClient.dll
+D:\IPL\3º Ano\IS - Integração de Sistemas\Projeto\Projeto\Projeto_IS\SolutionIS\DoorClient\bin\Debug\net8.0-windows\DoorClient.exe
+D:\IPL\3º Ano\IS - Integração de Sistemas\Projeto\Projeto\Projeto_IS\SolutionIS\DoorClient\bin\Debug\net8.0-windows\DoorClient.dll.config
+D:\IPL\3º Ano\IS - Integração de Sistemas\Projeto\Projeto\Projeto_IS\SolutionIS\DoorClient\bin\Debug\net8.0-windows\DoorClient.deps.json
+D:\IPL\3º Ano\IS - Integração de Sistemas\Projeto\Projeto\Projeto_IS\SolutionIS\DoorClient\bin\Debug\net8.0-windows\DoorClient.runtimeconfig.json
+D:\IPL\3º Ano\IS - Integração de Sistemas\Projeto\Projeto\Projeto_IS\SolutionIS\DoorClient\bin\Debug\net8.0-windows\DoorClient.dll
+D:\IPL\3º Ano\IS - Integração de Sistemas\Projeto\Projeto\Projeto_IS\SolutionIS\DoorClient\bin\Debug\net8.0-windows\DoorClient.pdb
+D:\IPL\3º Ano\IS - Integração de Sistemas\Projeto\Projeto\Projeto_IS\SolutionIS\DoorClient\bin\Debug\net8.0-windows\M2Mqtt.Net.dll
+D:\IPL\3º Ano\IS - Integração de Sistemas\Projeto\Projeto\Projeto_IS\SolutionIS\DoorClient\bin\Debug\net8.0-windows\RestSharp.dll
+D:\IPL\3º Ano\IS - Integração de Sistemas\Projeto\Projeto\Projeto_IS\SolutionIS\DoorClient\obj\Debug\net8.0-windows\DoorClient.csproj.AssemblyReference.cache
+D:\IPL\3º Ano\IS - Integração de Sistemas\Projeto\Projeto\Projeto_IS\SolutionIS\DoorClient\obj\Debug\net8.0-windows\DoorClient.FormDoor.resources
+D:\IPL\3º Ano\IS - Integração de Sistemas\Projeto\Projeto\Projeto_IS\SolutionIS\DoorClient\obj\Debug\net8.0-windows\DoorClient.csproj.GenerateResource.cache
+D:\IPL\3º Ano\IS - Integração de Sistemas\Projeto\Projeto\Projeto_IS\SolutionIS\DoorClient\obj\Debug\net8.0-windows\DoorClient.GeneratedMSBuildEditorConfig.editorconfig
+D:\IPL\3º Ano\IS - Integração de Sistemas\Projeto\Projeto\Projeto_IS\SolutionIS\DoorClient\obj\Debug\net8.0-windows\DoorClient.AssemblyInfoInputs.cache
+D:\IPL\3º Ano\IS - Integração de Sistemas\Projeto\Projeto\Projeto_IS\SolutionIS\DoorClient\obj\Debug\net8.0-windows\DoorClient.AssemblyInfo.cs
+D:\IPL\3º Ano\IS - Integração de Sistemas\Projeto\Projeto\Projeto_IS\SolutionIS\DoorClient\obj\Debug\net8.0-windows\DoorClient.csproj.CoreCompileInputs.cache
+D:\IPL\3º Ano\IS - Integração de Sistemas\Projeto\Projeto\Projeto_IS\SolutionIS\DoorClient\obj\Debug\net8.0-windows\DoorClient.sourcelink.json
+D:\IPL\3º Ano\IS - Integração de Sistemas\Projeto\Projeto\Projeto_IS\SolutionIS\DoorClient\obj\Debug\net8.0-windows\DoorClient.csproj.CopyComplete
+D:\IPL\3º Ano\IS - Integração de Sistemas\Projeto\Projeto\Projeto_IS\SolutionIS\DoorClient\obj\Debug\net8.0-windows\DoorClient.dll
+D:\IPL\3º Ano\IS - Integração de Sistemas\Projeto\Projeto\Projeto_IS\SolutionIS\DoorClient\obj\Debug\net8.0-windows\refint\DoorClient.dll
+D:\IPL\3º Ano\IS - Integração de Sistemas\Projeto\Projeto\Projeto_IS\SolutionIS\DoorClient\obj\Debug\net8.0-windows\DoorClient.pdb
+D:\IPL\3º Ano\IS - Integração de Sistemas\Projeto\Projeto\Projeto_IS\SolutionIS\DoorClient\obj\Debug\net8.0-windows\DoorClient.genruntimeconfig.cache
+D:\IPL\3º Ano\IS - Integração de Sistemas\Projeto\Projeto\Projeto_IS\SolutionIS\DoorClient\obj\Debug\net8.0-windows\ref\DoorClient.dll

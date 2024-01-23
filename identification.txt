@@ -1,0 +1,27 @@
+Lista de rotas:
+
+URL base: <dominio:porta>/api/somiod/...
+
+================ Apps =====================
+//perguntar se podem ter o mesmo caminho e ele diferencia pelo tipo de request
+CREATE:		/api/somiod/applications/		
+SELECT (todos): /api/somiod/applications/		(definido)
+SELECT (name): 	/api/somiod/applications/{app_name}	(definido)
+PUT:		/api/somiod/applications/{app_name}
+DELETE:		/api/somiod/applications/{app_name}
+
+
+
+===================== Containers =====================
+
+CREATE:		/api/somiod/{app_name}/containers/
+SELECT (todos): /api/somiod/{app_name}/containers/	(definido)
+SELECT (name): 	/api/somiod/{app_name}/{container_name} (definido)
+PUT:		/api/somiod/{app_name}/{container_name}
+DELETE:		/api/somiod/{app_name}/{container_name}
+
+===================== Data =====================
+
+CREATE:		/api/somiod/{app_name}/{container_name}/data
+SELECT (todos): /api/somiod/{app_name}/{container_name}/data
+DELETE:		/api/somiod/

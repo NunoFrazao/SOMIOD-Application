@@ -1,0 +1,487 @@
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto_IS\SolutionIS\somiod\bin\somiod.dll.config
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto_IS\SolutionIS\somiod\bin\somiod.dll
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto_IS\SolutionIS\somiod\bin\somiod.pdb
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\csc.exe
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\csc.exe.config
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\csc.rsp
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\csi.exe
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\csi.exe.config
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\csi.rsp
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\System.Collections.Immutable.dll
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\System.IO.FileSystem.dll
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\System.Reflection.Metadata.dll
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\System.ValueTuple.dll
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\vbc.exe
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\vbc.exe.config
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\vbc.rsp
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\VBCSCompiler.exe
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\VBCSCompiler.exe.config
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto_IS\SolutionIS\somiod\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto_IS\SolutionIS\somiod\bin\Newtonsoft.Json.dll
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto_IS\SolutionIS\somiod\bin\System.Net.Http.Formatting.dll
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto_IS\SolutionIS\somiod\bin\System.Web.Http.dll
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto_IS\SolutionIS\somiod\bin\System.Web.Http.WebHost.dll
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto_IS\SolutionIS\somiod\bin\Newtonsoft.Json.xml
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto_IS\SolutionIS\somiod\bin\System.Net.Http.Formatting.xml
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto_IS\SolutionIS\somiod\bin\System.Web.Http.xml
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto_IS\SolutionIS\somiod\bin\System.Web.Http.WebHost.xml
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto_IS\SolutionIS\somiod\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto_IS\SolutionIS\somiod\obj\Debug\somiod.csproj.AssemblyReference.cache
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto_IS\SolutionIS\somiod\obj\Debug\somiod.csproj.CoreCompileInputs.cache
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto_IS\SolutionIS\somiod\obj\Debug\somiod.csproj.CopyComplete
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto_IS\SolutionIS\somiod\obj\Debug\somiod.dll
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto_IS\SolutionIS\somiod\obj\Debug\somiod.pdb
+C:\Projeto\Projeto_IS\SolutionIS\somiod\bin\somiod.dll.config
+C:\Projeto\Projeto_IS\SolutionIS\somiod\bin\somiod.dll
+C:\Projeto\Projeto_IS\SolutionIS\somiod\bin\somiod.pdb
+C:\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\csc.exe
+C:\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\csc.exe.config
+C:\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\csc.rsp
+C:\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\csi.exe
+C:\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\csi.exe.config
+C:\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\csi.rsp
+C:\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\System.AppContext.dll
+C:\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\System.Collections.Immutable.dll
+C:\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\System.Console.dll
+C:\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\System.Globalization.Calendars.dll
+C:\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\System.IO.Compression.dll
+C:\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\System.IO.FileSystem.dll
+C:\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\System.Net.Http.dll
+C:\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\System.Net.Sockets.dll
+C:\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\System.Reflection.Metadata.dll
+C:\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\System.ValueTuple.dll
+C:\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\System.Xml.XPath.dll
+C:\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\vbc.exe
+C:\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\vbc.exe.config
+C:\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\vbc.rsp
+C:\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\VBCSCompiler.exe
+C:\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\VBCSCompiler.exe.config
+C:\Projeto\Projeto_IS\SolutionIS\somiod\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Projeto\Projeto_IS\SolutionIS\somiod\bin\Newtonsoft.Json.dll
+C:\Projeto\Projeto_IS\SolutionIS\somiod\bin\System.Net.Http.Formatting.dll
+C:\Projeto\Projeto_IS\SolutionIS\somiod\bin\System.Web.Http.dll
+C:\Projeto\Projeto_IS\SolutionIS\somiod\bin\System.Web.Http.WebHost.dll
+C:\Projeto\Projeto_IS\SolutionIS\somiod\bin\Newtonsoft.Json.xml
+C:\Projeto\Projeto_IS\SolutionIS\somiod\bin\System.Net.Http.Formatting.xml
+C:\Projeto\Projeto_IS\SolutionIS\somiod\bin\System.Web.Http.xml
+C:\Projeto\Projeto_IS\SolutionIS\somiod\bin\System.Web.Http.WebHost.xml
+C:\Projeto\Projeto_IS\SolutionIS\somiod\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Projeto\Projeto_IS\SolutionIS\somiod\obj\Debug\somiod.csproj.AssemblyReference.cache
+C:\Projeto\Projeto_IS\SolutionIS\somiod\obj\Debug\somiod.csproj.CoreCompileInputs.cache
+C:\Projeto\Projeto_IS\SolutionIS\somiod\obj\Debug\somiod.csproj.CopyComplete
+C:\Projeto\Projeto_IS\SolutionIS\somiod\obj\Debug\somiod.dll
+C:\Projeto\Projeto_IS\SolutionIS\somiod\obj\Debug\somiod.pdb
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto_IS\SolutionIS\somiod\bin\FromHeaderAttribute.dll
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto_IS\SolutionIS\somiod\bin\M2Mqtt.Net.dll
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto_IS\SolutionIS\somiod\bin\M2Mqtt.Net.pdb
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\System.Buffers.dll
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\System.Memory.dll
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\System.Numerics.Vectors.dll
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto_IS\SolutionIS\somiod\bin\Newtonsoft.Json.Bson.dll
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto_IS\SolutionIS\somiod\bin\System.Buffers.dll
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto_IS\SolutionIS\somiod\bin\System.Memory.dll
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto_IS\SolutionIS\somiod\bin\System.Numerics.Vectors.dll
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto_IS\SolutionIS\somiod\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto_IS\SolutionIS\somiod\bin\System.Threading.Tasks.Extensions.dll
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto_IS\SolutionIS\somiod\bin\Newtonsoft.Json.Bson.pdb
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto_IS\SolutionIS\somiod\bin\Newtonsoft.Json.Bson.xml
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto_IS\SolutionIS\somiod\bin\System.Buffers.xml
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto_IS\SolutionIS\somiod\bin\System.Memory.xml
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto_IS\SolutionIS\somiod\bin\System.Numerics.Vectors.xml
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto_IS\SolutionIS\somiod\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto_IS\SolutionIS\somiod\bin\System.Threading.Tasks.Extensions.xml
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto_IS\SolutionIS\somiod\bin\Microsoft.Web.Infrastructure.dll
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto_IS\SolutionIS\somiod\bin\Swashbuckle.Core.dll
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto_IS\SolutionIS\somiod\bin\WebActivatorEx.dll
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto (2)\Projeto\Projeto_IS\SolutionIS\somiod\bin\somiod.dll.config
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto (2)\Projeto\Projeto_IS\SolutionIS\somiod\bin\somiod.dll
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto (2)\Projeto\Projeto_IS\SolutionIS\somiod\bin\somiod.pdb
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto (2)\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\csc.exe
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto (2)\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\csc.exe.config
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto (2)\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\csc.rsp
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto (2)\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\csi.exe
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto (2)\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\csi.exe.config
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto (2)\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\csi.rsp
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto (2)\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto (2)\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto (2)\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto (2)\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto (2)\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto (2)\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto (2)\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto (2)\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto (2)\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto (2)\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto (2)\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto (2)\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto (2)\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\System.Buffers.dll
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto (2)\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto (2)\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto (2)\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto (2)\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\System.Memory.dll
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto (2)\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto (2)\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto (2)\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto (2)\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto (2)\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto (2)\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto (2)\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\System.ValueTuple.dll
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto (2)\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\vbc.exe
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto (2)\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\vbc.exe.config
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto (2)\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\vbc.rsp
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto (2)\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\VBCSCompiler.exe
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto (2)\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto (2)\Projeto\Projeto_IS\SolutionIS\somiod\bin\FromHeaderAttribute.dll
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto (2)\Projeto\Projeto_IS\SolutionIS\somiod\bin\M2Mqtt.Net.dll
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto (2)\Projeto\Projeto_IS\SolutionIS\somiod\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto (2)\Projeto\Projeto_IS\SolutionIS\somiod\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto (2)\Projeto\Projeto_IS\SolutionIS\somiod\bin\Newtonsoft.Json.Bson.dll
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto (2)\Projeto\Projeto_IS\SolutionIS\somiod\bin\Newtonsoft.Json.dll
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto (2)\Projeto\Projeto_IS\SolutionIS\somiod\bin\Swashbuckle.Core.dll
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto (2)\Projeto\Projeto_IS\SolutionIS\somiod\bin\System.Buffers.dll
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto (2)\Projeto\Projeto_IS\SolutionIS\somiod\bin\System.Memory.dll
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto (2)\Projeto\Projeto_IS\SolutionIS\somiod\bin\System.Net.Http.Formatting.dll
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto (2)\Projeto\Projeto_IS\SolutionIS\somiod\bin\System.Numerics.Vectors.dll
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto (2)\Projeto\Projeto_IS\SolutionIS\somiod\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto (2)\Projeto\Projeto_IS\SolutionIS\somiod\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto (2)\Projeto\Projeto_IS\SolutionIS\somiod\bin\System.Web.Http.dll
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto (2)\Projeto\Projeto_IS\SolutionIS\somiod\bin\System.Web.Http.WebHost.dll
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto (2)\Projeto\Projeto_IS\SolutionIS\somiod\bin\WebActivatorEx.dll
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto (2)\Projeto\Projeto_IS\SolutionIS\somiod\bin\M2Mqtt.Net.pdb
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto (2)\Projeto\Projeto_IS\SolutionIS\somiod\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto (2)\Projeto\Projeto_IS\SolutionIS\somiod\bin\Newtonsoft.Json.xml
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto (2)\Projeto\Projeto_IS\SolutionIS\somiod\bin\Newtonsoft.Json.Bson.pdb
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto (2)\Projeto\Projeto_IS\SolutionIS\somiod\bin\Newtonsoft.Json.Bson.xml
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto (2)\Projeto\Projeto_IS\SolutionIS\somiod\bin\System.Buffers.xml
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto (2)\Projeto\Projeto_IS\SolutionIS\somiod\bin\System.Memory.xml
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto (2)\Projeto\Projeto_IS\SolutionIS\somiod\bin\System.Net.Http.Formatting.xml
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto (2)\Projeto\Projeto_IS\SolutionIS\somiod\bin\System.Numerics.Vectors.xml
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto (2)\Projeto\Projeto_IS\SolutionIS\somiod\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto (2)\Projeto\Projeto_IS\SolutionIS\somiod\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto (2)\Projeto\Projeto_IS\SolutionIS\somiod\bin\System.Web.Http.xml
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto (2)\Projeto\Projeto_IS\SolutionIS\somiod\bin\System.Web.Http.WebHost.xml
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto (2)\Projeto\Projeto_IS\SolutionIS\somiod\obj\Debug\somiod.csproj.AssemblyReference.cache
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto (2)\Projeto\Projeto_IS\SolutionIS\somiod\obj\Debug\somiod.csproj.CoreCompileInputs.cache
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto (2)\Projeto\Projeto_IS\SolutionIS\somiod\obj\Debug\somiod.csproj.CopyComplete
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto (2)\Projeto\Projeto_IS\SolutionIS\somiod\obj\Debug\somiod.dll
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto (2)\Projeto\Projeto_IS\SolutionIS\somiod\obj\Debug\somiod.pdb
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\somiod.dll.config
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\somiod.dll
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\somiod.pdb
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\csc.exe
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\csc.exe.config
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\csc.rsp
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\csi.exe
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\csi.exe.config
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\csi.rsp
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\System.Buffers.dll
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\System.Collections.Immutable.dll
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\System.IO.FileSystem.dll
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\System.Memory.dll
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\System.Numerics.Vectors.dll
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\System.Reflection.Metadata.dll
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\System.ValueTuple.dll
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\vbc.exe
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\vbc.exe.config
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\vbc.rsp
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\VBCSCompiler.exe
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\VBCSCompiler.exe.config
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\FromHeaderAttribute.dll
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\M2Mqtt.Net.dll
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\Microsoft.Web.Infrastructure.dll
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\Newtonsoft.Json.Bson.dll
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\Newtonsoft.Json.dll
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\Swashbuckle.Core.dll
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\System.Buffers.dll
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\System.Memory.dll
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\System.Net.Http.Formatting.dll
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\System.Numerics.Vectors.dll
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\System.Threading.Tasks.Extensions.dll
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\System.Web.Http.dll
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\System.Web.Http.WebHost.dll
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\WebActivatorEx.dll
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\M2Mqtt.Net.pdb
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\Newtonsoft.Json.xml
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\Newtonsoft.Json.Bson.pdb
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\Newtonsoft.Json.Bson.xml
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\System.Buffers.xml
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\System.Memory.xml
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\System.Net.Http.Formatting.xml
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\System.Numerics.Vectors.xml
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\System.Threading.Tasks.Extensions.xml
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\System.Web.Http.xml
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\System.Web.Http.WebHost.xml
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\obj\Debug\somiod.csproj.AssemblyReference.cache
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\obj\Debug\somiod.csproj.CoreCompileInputs.cache
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\obj\Debug\somiod.csproj.CopyComplete
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\obj\Debug\somiod.dll
+D:\Escola\EI\3_Ano\1_semestre\IS\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\obj\Debug\somiod.pdb
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\somiod.dll.config
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\somiod.dll
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\somiod.pdb
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\csc.exe
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\csc.exe.config
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\csc.rsp
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\csi.exe
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\csi.exe.config
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\csi.rsp
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\System.Buffers.dll
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\System.Memory.dll
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\vbc.exe
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\vbc.exe.config
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\vbc.rsp
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\VBCSCompiler.exe
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\FromHeaderAttribute.dll
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\M2Mqtt.Net.dll
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\Newtonsoft.Json.Bson.dll
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\Newtonsoft.Json.dll
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\Swashbuckle.Core.dll
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\System.Buffers.dll
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\System.Memory.dll
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\System.Net.Http.Formatting.dll
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\System.Numerics.Vectors.dll
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\System.Web.Http.dll
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\System.Web.Http.WebHost.dll
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\WebActivatorEx.dll
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\M2Mqtt.Net.pdb
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\Newtonsoft.Json.xml
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\Newtonsoft.Json.Bson.pdb
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\Newtonsoft.Json.Bson.xml
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\System.Buffers.xml
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\System.Memory.xml
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\System.Net.Http.Formatting.xml
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\System.Numerics.Vectors.xml
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\System.Web.Http.xml
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\System.Web.Http.WebHost.xml
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\obj\Debug\somiod.csproj.AssemblyReference.cache
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\obj\Debug\somiod.csproj.CoreCompileInputs.cache
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\obj\Debug\somiod.csproj.CopyComplete
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\obj\Debug\somiod.dll
+C:\Users\zclpa\OneDrive\Ambiente de Trabalho\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\obj\Debug\somiod.pdb
+C:\Users\Ivo\Downloads\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\somiod.dll.config
+C:\Users\Ivo\Downloads\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\somiod.dll
+C:\Users\Ivo\Downloads\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\somiod.pdb
+C:\Users\Ivo\Downloads\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\csc.exe
+C:\Users\Ivo\Downloads\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\csc.exe.config
+C:\Users\Ivo\Downloads\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\csc.rsp
+C:\Users\Ivo\Downloads\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\csi.exe
+C:\Users\Ivo\Downloads\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\csi.exe.config
+C:\Users\Ivo\Downloads\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\csi.rsp
+C:\Users\Ivo\Downloads\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ivo\Downloads\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ivo\Downloads\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ivo\Downloads\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ivo\Downloads\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ivo\Downloads\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ivo\Downloads\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ivo\Downloads\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ivo\Downloads\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ivo\Downloads\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+C:\Users\Ivo\Downloads\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Ivo\Downloads\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ivo\Downloads\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\System.Buffers.dll
+C:\Users\Ivo\Downloads\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ivo\Downloads\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\System.Memory.dll
+C:\Users\Ivo\Downloads\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\Ivo\Downloads\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ivo\Downloads\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ivo\Downloads\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Ivo\Downloads\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Ivo\Downloads\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\vbc.exe
+C:\Users\Ivo\Downloads\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\vbc.exe.config
+C:\Users\Ivo\Downloads\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\vbc.rsp
+C:\Users\Ivo\Downloads\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ivo\Downloads\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ivo\Downloads\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\FromHeaderAttribute.dll
+C:\Users\Ivo\Downloads\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\M2Mqtt.Net.dll
+C:\Users\Ivo\Downloads\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ivo\Downloads\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ivo\Downloads\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\Newtonsoft.Json.Bson.dll
+C:\Users\Ivo\Downloads\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\Newtonsoft.Json.dll
+C:\Users\Ivo\Downloads\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\Swashbuckle.Core.dll
+C:\Users\Ivo\Downloads\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\System.Buffers.dll
+C:\Users\Ivo\Downloads\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\System.Memory.dll
+C:\Users\Ivo\Downloads\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\System.Net.Http.Formatting.dll
+C:\Users\Ivo\Downloads\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\System.Numerics.Vectors.dll
+C:\Users\Ivo\Downloads\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ivo\Downloads\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Ivo\Downloads\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\System.Web.Http.dll
+C:\Users\Ivo\Downloads\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\System.Web.Http.WebHost.dll
+C:\Users\Ivo\Downloads\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\WebActivatorEx.dll
+C:\Users\Ivo\Downloads\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\M2Mqtt.Net.pdb
+C:\Users\Ivo\Downloads\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ivo\Downloads\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\Newtonsoft.Json.xml
+C:\Users\Ivo\Downloads\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\Newtonsoft.Json.Bson.pdb
+C:\Users\Ivo\Downloads\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\Newtonsoft.Json.Bson.xml
+C:\Users\Ivo\Downloads\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\System.Buffers.xml
+C:\Users\Ivo\Downloads\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\System.Memory.xml
+C:\Users\Ivo\Downloads\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\System.Net.Http.Formatting.xml
+C:\Users\Ivo\Downloads\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\System.Numerics.Vectors.xml
+C:\Users\Ivo\Downloads\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Ivo\Downloads\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Ivo\Downloads\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\System.Web.Http.xml
+C:\Users\Ivo\Downloads\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\System.Web.Http.WebHost.xml
+C:\Users\Ivo\Downloads\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\obj\Debug\somiod.csproj.AssemblyReference.cache
+C:\Users\Ivo\Downloads\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\obj\Debug\somiod.csproj.CoreCompileInputs.cache
+C:\Users\Ivo\Downloads\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\obj\Debug\somiod.csproj.CopyComplete
+C:\Users\Ivo\Downloads\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\obj\Debug\somiod.dll
+C:\Users\Ivo\Downloads\Projeto_door\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\obj\Debug\somiod.pdb
+D:\IPL\3º Ano\IS - Integração de Sistemas\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\somiod.dll.config
+D:\IPL\3º Ano\IS - Integração de Sistemas\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\somiod.dll
+D:\IPL\3º Ano\IS - Integração de Sistemas\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\somiod.pdb
+D:\IPL\3º Ano\IS - Integração de Sistemas\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\csc.exe
+D:\IPL\3º Ano\IS - Integração de Sistemas\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\csc.exe.config
+D:\IPL\3º Ano\IS - Integração de Sistemas\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\csc.rsp
+D:\IPL\3º Ano\IS - Integração de Sistemas\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\csi.exe
+D:\IPL\3º Ano\IS - Integração de Sistemas\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\csi.exe.config
+D:\IPL\3º Ano\IS - Integração de Sistemas\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\csi.rsp
+D:\IPL\3º Ano\IS - Integração de Sistemas\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\IPL\3º Ano\IS - Integração de Sistemas\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\IPL\3º Ano\IS - Integração de Sistemas\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\IPL\3º Ano\IS - Integração de Sistemas\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\IPL\3º Ano\IS - Integração de Sistemas\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\IPL\3º Ano\IS - Integração de Sistemas\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\IPL\3º Ano\IS - Integração de Sistemas\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\IPL\3º Ano\IS - Integração de Sistemas\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\IPL\3º Ano\IS - Integração de Sistemas\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\IPL\3º Ano\IS - Integração de Sistemas\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+D:\IPL\3º Ano\IS - Integração de Sistemas\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\Microsoft.Managed.Core.targets
+D:\IPL\3º Ano\IS - Integração de Sistemas\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\IPL\3º Ano\IS - Integração de Sistemas\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\System.Buffers.dll
+D:\IPL\3º Ano\IS - Integração de Sistemas\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\System.Collections.Immutable.dll
+D:\IPL\3º Ano\IS - Integração de Sistemas\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\System.Memory.dll
+D:\IPL\3º Ano\IS - Integração de Sistemas\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\System.Numerics.Vectors.dll
+D:\IPL\3º Ano\IS - Integração de Sistemas\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\System.Reflection.Metadata.dll
+D:\IPL\3º Ano\IS - Integração de Sistemas\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+D:\IPL\3º Ano\IS - Integração de Sistemas\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\IPL\3º Ano\IS - Integração de Sistemas\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\IPL\3º Ano\IS - Integração de Sistemas\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\vbc.exe
+D:\IPL\3º Ano\IS - Integração de Sistemas\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\vbc.exe.config
+D:\IPL\3º Ano\IS - Integração de Sistemas\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\vbc.rsp
+D:\IPL\3º Ano\IS - Integração de Sistemas\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\VBCSCompiler.exe
+D:\IPL\3º Ano\IS - Integração de Sistemas\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\roslyn\VBCSCompiler.exe.config
+D:\IPL\3º Ano\IS - Integração de Sistemas\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\FromHeaderAttribute.dll
+D:\IPL\3º Ano\IS - Integração de Sistemas\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\M2Mqtt.Net.dll
+D:\IPL\3º Ano\IS - Integração de Sistemas\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\IPL\3º Ano\IS - Integração de Sistemas\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\Microsoft.Web.Infrastructure.dll
+D:\IPL\3º Ano\IS - Integração de Sistemas\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\Newtonsoft.Json.Bson.dll
+D:\IPL\3º Ano\IS - Integração de Sistemas\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\Newtonsoft.Json.dll
+D:\IPL\3º Ano\IS - Integração de Sistemas\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\Swashbuckle.Core.dll
+D:\IPL\3º Ano\IS - Integração de Sistemas\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\System.Buffers.dll
+D:\IPL\3º Ano\IS - Integração de Sistemas\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\System.Memory.dll
+D:\IPL\3º Ano\IS - Integração de Sistemas\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\System.Net.Http.Formatting.dll
+D:\IPL\3º Ano\IS - Integração de Sistemas\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\System.Numerics.Vectors.dll
+D:\IPL\3º Ano\IS - Integração de Sistemas\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\IPL\3º Ano\IS - Integração de Sistemas\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\System.Threading.Tasks.Extensions.dll
+D:\IPL\3º Ano\IS - Integração de Sistemas\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\System.Web.Http.dll
+D:\IPL\3º Ano\IS - Integração de Sistemas\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\System.Web.Http.WebHost.dll
+D:\IPL\3º Ano\IS - Integração de Sistemas\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\WebActivatorEx.dll
+D:\IPL\3º Ano\IS - Integração de Sistemas\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\M2Mqtt.Net.pdb
+D:\IPL\3º Ano\IS - Integração de Sistemas\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\IPL\3º Ano\IS - Integração de Sistemas\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\Newtonsoft.Json.xml
+D:\IPL\3º Ano\IS - Integração de Sistemas\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\Newtonsoft.Json.Bson.pdb
+D:\IPL\3º Ano\IS - Integração de Sistemas\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\Newtonsoft.Json.Bson.xml
+D:\IPL\3º Ano\IS - Integração de Sistemas\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\System.Buffers.xml
+D:\IPL\3º Ano\IS - Integração de Sistemas\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\System.Memory.xml
+D:\IPL\3º Ano\IS - Integração de Sistemas\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\System.Net.Http.Formatting.xml
+D:\IPL\3º Ano\IS - Integração de Sistemas\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\System.Numerics.Vectors.xml
+D:\IPL\3º Ano\IS - Integração de Sistemas\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\IPL\3º Ano\IS - Integração de Sistemas\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\System.Threading.Tasks.Extensions.xml
+D:\IPL\3º Ano\IS - Integração de Sistemas\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\System.Web.Http.xml
+D:\IPL\3º Ano\IS - Integração de Sistemas\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\bin\System.Web.Http.WebHost.xml
+D:\IPL\3º Ano\IS - Integração de Sistemas\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\obj\Debug\somiod.csproj.AssemblyReference.cache
+D:\IPL\3º Ano\IS - Integração de Sistemas\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\obj\Debug\somiod.csproj.CoreCompileInputs.cache
+D:\IPL\3º Ano\IS - Integração de Sistemas\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\obj\Debug\somiod.csproj.CopyComplete
+D:\IPL\3º Ano\IS - Integração de Sistemas\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\obj\Debug\somiod.dll
+D:\IPL\3º Ano\IS - Integração de Sistemas\Projeto\Projeto\Projeto_IS\SolutionIS\somiod\obj\Debug\somiod.pdb
